@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 12:04 IR
+- 📱 [VaydnsVpn-v1.7.6-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/VaydnsVpn-v1.7.6-arm64-v8a.apk) `10.4MB`
+
+---
+
+
 ### 📅 2026-04-29 11:15 IR
 - 📱 [Xray-v12.2.0-1061.apk](https://github.com/techpies/sandbox/raw/main/dl/Xray-v12.2.0-1061.apk) `37.2MB`
 
