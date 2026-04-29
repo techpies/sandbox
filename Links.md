@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 13:05 IR
+- 📱 [app-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/app-arm64-v8a-release.apk) `50.2MB`
+
+---
+
+
 ### 📅 2026-04-29 12:04 IR
 - 📱 [VaydnsVpn-v1.7.6-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/VaydnsVpn-v1.7.6-arm64-v8a.apk) `10.4MB`
 
