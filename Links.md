@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 13:14 IR
+- 📥 [KevinNet_Windows_x64.exe](https://github.com/techpies/sandbox/raw/main/dl/KevinNet_Windows_x64.exe) `33.5MB`
+
+---
+
+
 ### 📅 2026-04-29 13:05 IR
 - 📱 [app-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/app-arm64-v8a-release.apk) `50.2MB`
 
