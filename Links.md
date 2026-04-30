@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 14:06 IR
+- 🗜️ [WinCFScan-win-v1.4.96.zip](https://github.com/techpies/sandbox/raw/main/dl/WinCFScan-win-v1.4.96.zip) `8.9MB`
+
+---
+
+
 ### 📅 2026-04-30 13:21 IR
 - 📱 [VaydnsVpn-v1.7.7-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/VaydnsVpn-v1.7.7-arm64-v8a.apk) `10.4MB`
 
