@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 18:03 IR
+- 🗜️ [StormDNS_Client_Windows_AMD64.zip](https://github.com/techpies/sandbox/raw/main/dl/StormDNS_Client_Windows_AMD64.zip) `3.9MB`
+
+---
+
+
 ### 📅 2026-05-02 18:00 IR
 - 🗜️ [StormDNS_Client_Windows_ARM64.zip](https://github.com/techpies/sandbox/raw/main/dl/StormDNS_Client_Windows_ARM64.zip) `3.6MB`
 
