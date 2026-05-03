@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 00:36 IR
+- 📱 [app-store.apk](https://github.com/techpies/sandbox/raw/main/dl/app-store-release.apk) `84.4MB`
+
+---
+
+
 ### 📅 2026-05-03 19:36 IR
 - 📥 [vaydns-client-linux-arm64](https://github.com/techpies/sandbox/raw/main/dl/vaydns-client-linux-arm64) `7.7MB`
 
