@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 00:42 IR
+- 📥 [KevinNet_Linux_ARM64](https://github.com/techpies/sandbox/raw/main/dl/KevinNet_Linux_ARM64) `37.7MB`
+
+---
+
+
 ### 📅 2026-05-04 00:36 IR
 - 📱 [app-store.apk](https://github.com/techpies/sandbox/raw/main/dl/app-store-release.apk) `84.4MB`
 
