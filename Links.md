@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 19:36 IR
+- 📥 [vaydns-client-linux-arm64](https://github.com/techpies/sandbox/raw/main/dl/vaydns-client-linux-arm64) `7.7MB`
+
+---
+
+
 ### 📅 2026-05-02 20:21 IR
 - 🗜️ [Nova.App.V1.zip](https://github.com/techpies/sandbox/raw/main/dl/Nova.App.V1.zip) `24.6MB`
 
