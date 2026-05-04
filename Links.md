@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 15:31 IR
+- 🗜️ [cf-scanner-arm64-v2.1.1.zip](https://github.com/techpies/sandbox/raw/main/dl/cf-scanner-arm64-v2.1.1.zip) `14.5MB`
+
+---
+
+
 ### 📅 2026-05-04 00:42 IR
 - 📥 [KevinNet_Linux_ARM64](https://github.com/techpies/sandbox/raw/main/dl/KevinNet_Linux_ARM64) `37.7MB`
 
