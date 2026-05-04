@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-05 00:34 IR
+- 📱 [zyrln-1.1.apk](https://github.com/techpies/sandbox/raw/main/dl/zyrln-1.1.apk) `22.9MB`
+
+---
+
+
 ### 📅 2026-05-04 15:31 IR
 - 🗜️ [cf-scanner-arm64-v2.1.1.zip](https://github.com/techpies/sandbox/raw/main/dl/cf-scanner-arm64-v2.1.1.zip) `14.5MB`
 
