@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-11 10:34 IR
+- 📱 [WhiteDNS-1.1.0-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/WhiteDNS-1.1.0-arm64-v8a.apk) `5.1MB`
+
+---
+
+
 ### 📅 2026-05-10 23:48 IR
 - 🗜️ [StormDNS_Client_Termux_ARM64.zip](https://github.com/techpies/sandbox/raw/main/dl/StormDNS_Client_Termux_ARM64.zip) `5.6MB`
 
