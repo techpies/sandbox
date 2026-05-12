@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 21:39 IR
+- 📱 [v2rayNG_2.1.7-fdroid_arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-05-12 17:07 IR
 - 🗜️ [bushuray_linux_x86_64_v0.1.9.zip](https://github.com/techpies/sandbox/raw/main/dl/bushuray_linux_x86_64_v0.1.9.zip) `26.7MB`
 
