@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 09:28 IR
+- 📱 [WhiteDNS-1.3.0-arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/WhiteDNS-1.3.0-arm64-v8a.apk) `5.2MB`
+
+---
+
+
 ### 📅 2026-05-12 21:52 IR
 - 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/techpies/sandbox/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.8MB`
 
